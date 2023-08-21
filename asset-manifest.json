@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/css-project-using-Figma/static/css/main.65425f02.css",
+    "main.js": "/css-project-using-Figma/static/js/main.7a7978ed.js",
+    "index.html": "/css-project-using-Figma/index.html",
+    "main.65425f02.css.map": "/css-project-using-Figma/static/css/main.65425f02.css.map",
+    "main.7a7978ed.js.map": "/css-project-using-Figma/static/js/main.7a7978ed.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.65425f02.css",
+    "static/js/main.7a7978ed.js"
+  ]
+}
